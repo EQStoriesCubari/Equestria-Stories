@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Глава 1",
-      "volume": "",
+      "volume": "0",
       "last_updated": "1691095922",
       "groups": {
         "": "/proxy/api/imgur/chapter/aKgeyci"
@@ -15,10 +15,18 @@
     },
     "2": {
       "title": "Глава 2",
-      "volume": "",
+      "volume": "0",
       "last_updated": "1691095958",
       "groups": {
         "": "/proxy/api/imgur/chapter/U3MNeOX"
+      }
+    },
+    "3": {
+      "title": "Глава 3",
+      "volume": "0",
+      "last_updated": "1691096783",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uzUu1Gi"
       }
     }
   }
