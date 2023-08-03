@@ -36,6 +36,44 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/UA6bP0B"
       }
+    },
+    "5": {
+      "title": "Глава 5",
+      "volume": "0",
+      "last_updated": "1691099545",
+      "groups": {
+        "": [
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/24/fecd90f4da.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/24/c76e6ead7b.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/24/5c2e50c6c2.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/24/c24043ddaf.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/24/daf18e35fc.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/24/e6e4247c8b.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/24/45309ddabc.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/24/2cef1fb1e8.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/24/66f2a962de.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/24/07338e87a2.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/06/09/f582aea750.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/06/09/c50c269cee.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/06/09/5fd0763c20.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/06/09/9bd9c80c11.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/06/09/732f74e7fd.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/06/09/5ee226e3b8.png",
+          "https://cdn.everypony.info/storage/05/83/10/2018/06/21/c582c2a5ec.png",
+          "https://cdn.everypony.info/storage/05/83/10/2018/06/21/c7f5b8164d.png",
+          "https://cdn.everypony.info/storage/05/83/10/2018/06/21/1806864e13.png",
+          "https://cdn.everypony.info/storage/05/83/10/2018/06/21/a3c98f2b77.png",
+          "https://cdn.everypony.org/storage/05/83/10/2018/07/13/73c31827c2.png",
+          "https://cdn.everypony.org/storage/05/83/10/2018/07/13/8d14365b48.png",
+          "https://cdn.everypony.org/storage/05/83/10/2018/07/13/ddef41e5fd.png",
+          "https://cdn.everypony.org/storage/05/83/10/2018/07/13/41cc3f489e.png",
+          "https://cdn.everypony.org/storage/05/83/10/2018/07/13/6a8d4e8597.png",
+          "https://cdn.everypony.org/storage/05/83/10/2018/07/13/44ccface77.png",
+          "https://cdn.everypony.org/storage/05/83/10/2018/07/13/0703800b99.png",
+          "https://cdn.everypony.org/storage/05/83/10/2018/07/13/61a06d09ee.png",
+          "https://cdn.everypony.org/storage/05/83/10/2018/07/13/498c8c729d.png"
+        ]
+      }
     }
   }
 }
