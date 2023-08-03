@@ -10,7 +10,15 @@
       "volume": "0",
       "last_updated": "1691095922",
       "groups": {
-        "": "/proxy/api/imgur/chapter/aKgeyci"
+        "": [
+          "https://cdn.everypony.ru/storage/05/83/10/2019/11/25/b6837ec875.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/21bbf0380b.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/4135404183.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2019/11/25/c7d1681fed.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/f5f0766114.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/b41f04a2a8.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/8de996239d.png"
+        ]
       }
     },
     "2": {
@@ -18,7 +26,20 @@
       "volume": "0",
       "last_updated": "1691095958",
       "groups": {
-        "": "/proxy/api/imgur/chapter/U3MNeOX"
+        "": [
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/b278d57040.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/ec661174a6.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/da34250c8c.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/e1b55573eb.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/8d01127e95.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/0aeb9ed5d3.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/8975d2fae0.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/3b9e23af64.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/65fba5d5da.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/0801b80d0c.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/e78149ca1d.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/26/c32539bb46.png"
+        ]
       }
     },
     "3": {
