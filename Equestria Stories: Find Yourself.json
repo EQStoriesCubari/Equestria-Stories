@@ -1,0 +1,25 @@
+{
+  "title": "Equestria Stories: Find Yourself",
+  "description": "",
+  "artist": "",
+  "author": "EStories",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Глава 1",
+      "volume": "",
+      "last_updated": "1691095922",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/aKgeyci"
+      }
+    },
+    "2": {
+      "title": "Глава 2",
+      "volume": "",
+      "last_updated": "1691095958",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/U3MNeOX"
+      }
+    }
+  }
+}
