@@ -5,10 +5,10 @@
   "author": "Stainless Key",
   "cover": "https://cdn.everypony.ru/storage/05/83/10/2019/10/15/59bcfc1059.png",
   "chapters": {
-    "0": {
-      "title": "Сингл",
+    "1": {
+      "title": "Часть 1",
       "volume": "0",
-      "last_updated": "1691992484",
+      "last_updated": "1691993545",
       "groups": {
         "": [
           "https://cdn.everypony.ru/storage/05/83/10/2019/07/18/89571490ee.png",
@@ -65,6 +65,65 @@
           "https://cdn.everypony.ru/storage/05/83/10/2019/11/14/d946f10177.png",
           "https://cdn.everypony.ru/storage/05/83/10/2019/11/14/5bdf7774b7.png",
           "https://cdn.everypony.ru/storage/05/83/10/2019/11/14/21298054f1.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "Часть 2",
+      "volume": "0",
+      "last_updated": "1691993559",
+      "groups": {
+        "": [
+          "https://cdn.everypony.ru/storage/05/83/10/2019/12/14/d4a526ad5d.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2019/12/14/1d824a1a57.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2019/12/14/245fedd104.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2019/12/14/a09c18285e.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2019/12/14/513d59109c.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2019/12/14/31558b7943.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2019/12/14/74d57d6659.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2019/12/14/a3a7b02216.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2019/12/14/6b6e4019d0.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2019/12/14/7df629ca01.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/04/3b72b9e647.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/04/9447de4c9a.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/04/a657eec892.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/04/8fac564c75.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/04/0aced577a0.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/04/7e8134c73f.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/04/647c5f915b.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/04/a84df46a4d.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/04/ba03bb9f62.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/02/04/9f6cdc4f63.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/03/15/d982aedbbb.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/03/15/fe247c9efa.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/03/15/15fd2f6954.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/03/15/73533333ad.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/03/15/7d7f2752cc.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/03/15/3de80144e9.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/03/15/af7baa539d.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/03/15/de685e9269.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/03/15/557c421681.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/03/15/0b7473e08d.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/04/17/068447ccdd.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/04/17/6677ea541b.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/04/17/63d9971f14.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/04/17/49a3b47610.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/04/17/62d1e5a295.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/04/17/e6bae57af8.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/04/17/4f6e3691ef.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/04/17/8f81ea3bde.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/04/17/b8cffff23a.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/04/17/ace3e9e197.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/27/466dd95bfa.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/27/a01e79d80b.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/27/53e6dc54f7.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/27/7ebcbab864.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/27/f97cfb77c5.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/27/cc8d1fa524.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/27/4b577e15c7.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/27/21c7c8d564.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/27/6ede67a8cc.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2020/05/27/480d9df2a0.png"
         ]
       }
     }
