@@ -221,7 +221,16 @@
           "https://cdn.everypony.ru/storage/05/83/10/2022/04/28/64a3257977.png",
           "https://cdn.everypony.ru/storage/05/83/10/2022/04/28/8866b29efb.png",
           "https://cdn.everypony.ru/storage/05/83/10/2022/04/28/94374011af.png",
-          "https://cdn.everypony.ru/storage/05/83/10/2022/04/28/f5dcc16588.png",
+          "https://cdn.everypony.ru/storage/05/83/10/2022/04/28/f5dcc16588.png"
+        ]
+      }
+    },
+    "3": {
+      "title": "Часть 3",
+      "volume": "0",
+      "last_updated": "1692973251",
+      "groups": {
+        "": [
           "https://cdn.everypony.ru/storage/05/83/10/2022/04/28/79cd7c9d0e.png",
           "https://cdn.everypony.ru/storage/05/83/10/2022/04/28/378688c212.png",
           "https://cdn.everypony.ru/storage/05/83/10/2022/04/28/7374a43ec9.png",
@@ -269,10 +278,10 @@
         ]
       }
     },
-    "3": {
-      "title": "Hearth's Warming Eve Special",
+    "4": {
+      "title": "Hearth's Warming Eve",
       "volume": "0",
-      "last_updated": "1692001946",
+      "last_updated": "1692973272",
       "groups": {
         "": [
           "https://cdn.everypony.ru/storage/05/83/10/2023/04/30/940d3ccc25.png",
