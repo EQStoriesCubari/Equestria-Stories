@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Часть 1",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1692975246",
       "groups": {
         "": [
@@ -70,7 +70,7 @@
     },
     "2": {
       "title": "Часть 2",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1692975589",
       "groups": {
         "": [
@@ -227,7 +227,7 @@
     },
     "3": {
       "title": "Часть 3",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1692975806",
       "groups": {
         "": [
@@ -280,7 +280,7 @@
     },
     "3.5": {
       "title": "Hearth's Warming Eve Special",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1692976886",
       "groups": {
         "": [
