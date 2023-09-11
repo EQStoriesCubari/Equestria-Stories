@@ -1,0 +1,33 @@
+{
+  "title": "Quest for Friendship",
+  "description": "",
+  "artist": "",
+  "author": "AlexDTI",
+  "cover": "",
+  "chapters": {
+    "0": {
+      "title": "Пролог",
+      "volume": "1",
+      "last_updated": "1694443554",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/STnY80u"
+      }
+    },
+    "1": {
+      "title": "Глава 1",
+      "volume": "1",
+      "last_updated": "1694443645",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/97xoE0m"
+      }
+    },
+    "2": {
+      "title": "Глава 2",
+      "volume": "1",
+      "last_updated": "1694443681",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jCSeiK6"
+      }
+    }
+  }
+}
