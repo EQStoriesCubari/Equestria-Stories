@@ -1,0 +1,17 @@
+{
+  "title": "Lonely Hooves",
+  "description": "",
+  "artist": "",
+  "author": "Zaron & kazziepones",
+  "cover": "https://i.imgur.com/7ZpfHYq.png",
+  "chapters": {
+    "1": {
+      "title": "Часть 1",
+      "volume": "1",
+      "last_updated": "1694461775",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6GqyvzZ"
+      }
+    }
+  }
+}
