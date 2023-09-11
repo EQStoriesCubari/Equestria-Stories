@@ -28,6 +28,14 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/jCSeiK6"
       }
+    },
+    "3": {
+      "title": "Глава 3",
+      "volume": "1",
+      "last_updated": "1694445552",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Bxpl18S"
+      }
     }
   }
 }
