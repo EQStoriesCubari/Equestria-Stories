@@ -3,14 +3,22 @@
   "description": "",
   "artist": "",
   "author": "Zaron & kazziepones",
-  "cover": "https://i.imgur.com/7ZpfHYq.png",
+  "cover": "https://i.imgur.com/Uw0uTEa.png",
   "chapters": {
     "1": {
       "title": "Часть 1",
       "volume": "1",
       "last_updated": "1694461775",
       "groups": {
-        "": "/proxy/api/imgur/chapter/6GqyvzZ"
+        "": "/proxy/api/imgur/chapter/EzslbrV"
+      }
+    },
+    "1.1": {
+      "title": "Часть 1 Экстра. Вопросы и ответы",
+      "volume": "1",
+      "last_updated": "1694505036",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/JG0MLHf"
       }
     }
   }
