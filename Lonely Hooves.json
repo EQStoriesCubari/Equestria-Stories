@@ -22,11 +22,19 @@
       }
     },
     "1.1": {
-      "title": "Часть 1 Экстра. Вопросы и ответы",
+      "title": "Экстра. Вопросы и ответы",
       "volume": "1",
       "last_updated": "1694505036",
       "groups": {
         "": "/proxy/api/imgur/chapter/JG0MLHf"
+      }
+    },
+    "2.1": {
+      "title": "Экстра. Вопросы и ответы",
+      "volume": "1",
+      "last_updated": "1695123184",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kzlU9QF"
       }
     }
   }
