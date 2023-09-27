@@ -1,0 +1,17 @@
+{
+  "title": "Little Monster",
+  "description": "",
+  "artist": "",
+  "author": "BigSnuSnu",
+  "cover": "https://i.imgur.com/BXhNQdK.png",
+  "chapters": {
+    "0": {
+      "title": "Single",
+      "volume": "0",
+      "last_updated": "1695826595",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/NoQV0w0"
+      }
+    }
+  }
+}
