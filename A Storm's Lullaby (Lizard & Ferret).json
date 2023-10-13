@@ -312,6 +312,14 @@
           "https://cdn.everypony.ru/storage/05/83/10/2023/04/30/2158f2f3dc.png"
         ]
       }
+    },
+    "4.1": {
+      "title": "Припасы на зиму",
+      "volume": "1",
+      "last_updated": "1697190533",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IqQEHTi"
+      }
     }
   }
 }
