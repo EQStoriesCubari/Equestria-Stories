@@ -288,6 +288,14 @@
         ]
       }
     },
+    "4": {
+      "title": "Припасы на зиму",
+      "volume": "1",
+      "last_updated": "1697798002",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IqQEHTi"
+      }
+    },
     "3.5": {
       "title": "Hearth's Warming Eve Special",
       "volume": "1",
@@ -311,14 +319,6 @@
           "https://cdn.everypony.ru/storage/05/83/10/2023/04/30/979b4df918.png",
           "https://cdn.everypony.ru/storage/05/83/10/2023/04/30/2158f2f3dc.png"
         ]
-      }
-    },
-    "4.1": {
-      "title": "Припасы на зиму",
-      "volume": "1",
-      "last_updated": "1697190533",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/IqQEHTi"
       }
     }
   }
