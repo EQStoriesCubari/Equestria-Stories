@@ -35,22 +35,7 @@
       "volume": "0",
       "last_updated": "1691942896",
       "groups": {
-        "": [
-          "https://cdn.everypony.ru/storage/05/83/10/2023/05/10/d9d8effcfb.png",
-          "https://cdn.everypony.ru/storage/05/83/10/2023/06/12/63cbb3decc.png",
-          "https://cdn.everypony.ru/storage/05/83/10/2023/06/12/9a719784ad.png",
-          "https://cdn.everypony.ru/storage/05/83/10/2023/06/12/7cf55c726a.png",
-          "https://i.imgur.com/NgcQJXl.png",
-          "https://i.imgur.com/nq1NlvQ.jpg",
-          "https://i.imgur.com/euKofGP.png",
-          "https://i.imgur.com/0Ct4lmN.png",
-          "https://i.imgur.com/oLXA6kE.png",
-          "https://i.imgur.com/1E6hBXn.png",
-          "https://i.imgur.com/2FRQ5qF.png",
-          "https://i.imgur.com/M931bi4.png",
-          "https://i.imgur.com/s2kO3xA.png",
-          "https://i.imgur.com/tNhD2Hr.jpg"
-        ]
+        "": "/proxy/api/imgur/chapter/Ij10X3L"
       }
     }
   }
