@@ -5,12 +5,20 @@
   "author": "EStories",
   "cover": "https://i.imgur.com/0KHydxA.png",
   "chapters": {
-    "1": {
+    "1.1": {
       "title": "Заклятые друзья",
       "volume": "0",
-      "last_updated": "1699629762",
+      "last_updated": "1699631229",
       "groups": {
         "": "/proxy/api/imgur/chapter/3yqYUbb"
+      }
+    },
+    "1.2": {
+      "title": "Заклятые друзья",
+      "volume": "0",
+      "last_updated": "1699631269",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/yFZ62NB"
       }
     }
   }
